@@ -4,4 +4,6 @@ echo "We are learning Branching"
 echo "I am learning Git"
 echo "Hello, How are you?"
 echo "amulya"
+echo "we are adding new line in b2"
 echo " i am adding this line in branch 1"
+
